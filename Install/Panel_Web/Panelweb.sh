@@ -29,7 +29,7 @@ fun_upgrade () {
 
 fun_limpiarepositorios () {
 ##LIMPIA ROOT
-sudo rm -rf /root/install.sh > /dev/null 2>&1
+sudo rm -rf /root/install > /dev/null 2>&1
 sudo rm -rf /root/ocspanel > /dev/null 2>&1
 sudo rm -rf /root/Painelv11.sh > /dev/null 2>&1
 sudo rm -rf /root/install.sh > /dev/null 2>&1
